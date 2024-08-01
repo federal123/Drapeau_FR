@@ -1,4 +1,4 @@
-drapeau_fr
+drapeau_fr_usa
 
 prop de fivem a été réalisé par moi-même et il est payant 5£
 
